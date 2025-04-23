@@ -2,3 +2,4 @@ Name : Sujitha K C
 Reg.No : 24MCR111
 Dept : CSC
 Fav. Topic: UI/UX
+Mobile Model : Motorola Edge 50 neo
